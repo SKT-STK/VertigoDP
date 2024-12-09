@@ -4,7 +4,9 @@
     "fluid": {
       "fluids": [
         "minecraft:water",
-        "minecraft:flowing_water"
+        "minecraft:flowing_water",
+        "minecraft:lava",
+        "flowing_lava"
       ]
     }
   }
