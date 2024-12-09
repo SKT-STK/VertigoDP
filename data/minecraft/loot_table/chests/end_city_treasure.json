@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "vertigo:end_city_treasure_default",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "vertigo:vertigo",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
