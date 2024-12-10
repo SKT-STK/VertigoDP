@@ -16,8 +16,13 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "vertigo:vertigo",
-          "weight": 1
+          "conditions": [
+            {
+              "condition": "random_chance",
+              "chance": 0.05
+            }
+          ],
+          "value": "vertigo:vertigo"
         }
       ]
     }
