@@ -86,6 +86,7 @@
     "comparator",
     "tripwire_hook",
     "tripwire",
-    "#rails"
+    "#rails",
+    "#trapdoors"
   ]
 }
